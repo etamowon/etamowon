@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etam Tamo Wonkam</h1>
-<h3 align="center">A passionate future full stack from Maryland, US</h3>
+<h3 align="center">A passionate future full stack developer from Maryland, US</h3>
 
 - 🔭 I’m currently working on [HitBox](https://github.com/etamowon/HitBox)
 
