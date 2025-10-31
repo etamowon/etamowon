@@ -7,8 +7,8 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **[MrKnowItAll's LotteryApp](https://github.com/etamowon/LotteryApp)**, a cross-platform mobile app using React Native, Node.js, and PostgreSQL.
-- 🌱 I'm building projects with **React, Node.js, React Native, and ROS2**.
+- 🔭 I'm currently working on **[LotteryApp](https://github.com/etamowon/LotteryApp)**, a cross-platform mobile app using React Native, Node.js, and PostgreSQL.
+- 🌱 I'm building projects with **React, Node.js, React Native**.
 - 🌐 Check out my portfolio at **[etamwonkam.vercel.app](https://etamwonkam.vercel.app/)**
 - 📫 How to reach me **etamwonkam@gmail.com**
 
