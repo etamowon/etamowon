@@ -7,7 +7,8 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **[LotteryApp](https://github.com/etamowon/LotteryApp)**, a cross-platform mobile app using React Native, Node.js, and PostgreSQL.
+- 🔭 I'm currently working on **[LotteryApp](https://github.com/etamowon/LotteryApp)**, a cross-platform mobile app using React Native, Node.js, and PostgreSQL
+- 📈 I'm also currently working on **[TrackEarly](https://github.com/etamowon/trackearly)**, a full-stack MERN task management app deployed on Vercel and Railway. ([Live Demo](https://trackearly.vercel.app))
 - 🌱 I'm building projects with **React, Node.js, React Native**.
 - 🌐 Check out my portfolio at **[etamwonkam.vercel.app](https://etamwonkam.vercel.app/)**
 - 📫 How to reach me **etamwonkam@gmail.com**
