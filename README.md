@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Etam Tamo Wonkam</h1>
-<h3 align="center">A Computer Science student at the University of Maryland passionate about full-stack development and robotics.</h3>
+<h3 align="center">A Computer Science student at the University of Maryland passionate about full-stack development.</h3>
 
 <p align="center">
   <a href="https://etamwonkam.vercel.app/" target="_blank">
