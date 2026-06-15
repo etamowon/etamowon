@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Etam Tamo Wonkam</h1>
+<h1 align="center">Hi, I'm Etam Tamo Wonkam</h1>
 <h3 align="center">A Computer Science student at the University of Maryland passionate about full-stack development and robotics.</h3>
 
 <p align="center">
   <a href="https://etamwonkam.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-4F80FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-4F80FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
-- 🔭 I'm currently working on **[LotteryApp](https://github.com/etamowon/LotteryApp)**, a cross-platform mobile app using React Native, Node.js, and PostgreSQL
-- 📈 I'm also currently working on **[TrackEarly](https://github.com/etamowon/trackearly)**, a full-stack MERN task management app deployed on Vercel and Railway. ([Live Demo](https://trackearly.vercel.app))
-- 🌱 I'm building projects with **React, Node.js, React Native**.
-- 🌐 Check out my portfolio at **[etamwonkam.vercel.app](https://etamwonkam.vercel.app/)**
-- 📫 How to reach me **etamwonkam@gmail.com**
+- 🚛 I'm currently building **[LivePulse](https://github.com/etamowon/livepulse)**, a real-time fleet dispatch dashboard streaming live vehicle telemetry via WebSockets — built with Java Spring Boot, React, and deployed on AWS EC2. ([Live Demo](https://livepulse-mu.vercel.app))
+- 📈 I also built **[TrackEarly](https://github.com/etamowon/trackearly)**, a full-stack MERN productivity app with drag-and-drop task management and a custom glassmorphic UI. ([Live Demo](https://trackearly.vercel.app))
+- 🌱 Currently building with **Java, Spring Boot, React, Node.js, AWS**
+- 🌐 Portfolio: **[etamwonkam.vercel.app](https://etamwonkam.vercel.app/)**
+- 📫 Reach me at **etamwonkam@gmail.com**
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F80FF?style=for-the-badge&logo=vercel&logoColor=white)](https://etamwonkam.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/etamw) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:etamwonkam@gmail.com) 
